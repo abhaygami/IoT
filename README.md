@@ -20,3 +20,6 @@ Input : off = off
 
 # Keil1.c
 =>when INT0 enabled factorial of 6 should be find
+
+# Keil2.c
+=> when timer0 is enabled sum and sub calculated and timer1 is enabled then mul and div calculated
