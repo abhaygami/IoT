@@ -18,3 +18,5 @@ Input : off = off
 => Input : E = led off
 => also calculate timer1 for 0.2 sec delay
 
+# Keil1.c
+=>when INT0 enabled factorial of 6 should be find
